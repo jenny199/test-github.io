@@ -2,7 +2,7 @@
 title: "About"
 permalink: /about/
 header:
-  image: "/images/profile.jpg"
+  image: "/images/datascience.jpg"
 ---
 
 I'm a data scientist who is in her final year at the University of Rwanda(Nyarugenge Campus).
